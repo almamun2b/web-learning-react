@@ -1,10 +1,10 @@
 # Title: Learn Complete Web Development with Us
 
-To See Our Shortlisted Developers Click [Here, Live Site Link](https://my-superhero-director-react.netlify.app/).
+To See Our Shortlisted Developers Click [Here, Live Site Link](https://my-education-react.netlify.app/).
 
 ## About The Site
 
-If someone is looking for employees, then this website help to find Qualified employees.This is sample website where we can select the developers by their qualification.
+Here we teaches web development course online. if you want to be a web developer, enroll now.
 
 ### Technology Used
 
@@ -12,9 +12,9 @@ We used FontAwasome, BootStrap, CSS3, HTML5, React, Custom API...etc.
 
 ### Functionality
 
-All the qualified employees details are displayed by the grid Card. It also shows the total number of selected employees with their total salary and name with images.
+All the Running Courses details are displayed by the grid Card. It also shows the Instructors details with images.
 
-### Button Functionality
+### Offer
 
-Every card contains a button. by clicking the button, it updates the cart with the total number of selected employees with their total salary and name with images.
+To get offer enroll now
 
