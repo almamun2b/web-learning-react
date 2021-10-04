@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Stephana Taill",
+    "email": "staill0@vistaprint.com",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "gender": "Male",
+    "salary": 53149,
+    "city": "Kivertsi",
+    "phone": "845-582-1650",
+    "designation": "Owner"
+  },
+  {
+    "id": 2,
+    "name": "Angil Ivantyev",
+    "email": "aivantyev1@census.gov",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg",
+    "gender": "Male",
+    "salary": 45333,
+    "city": "Fayzabad",
+    "phone": "888-427-0116",
+    "designation": "MERN Stack Developer"
+  },
+  {
+    "id": 3,
+    "name": "Heida Jopke",
+    "email": "hjopke2@dropbox.com",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "gender": "Male",
+    "salary": 21834,
+    "city": "Manadhoo",
+    "phone": "300-404-0042",
+    "designation": "NodeJS Developer"
+  },
+  {
+    "id": 4,
+    "name": "Othella Soffe",
+    "email": "osoffe3@people.com.cn",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "gender": "Male",
+    "salary": 47028,
+    "city": "Chikeng",
+    "phone": "421-792-8483",
+    "designation": "Database developer"
+  },
+  {
+    "id": 5,
+    "name": "Berke Yanson",
+    "email": "byanson4@goo.ne.jp",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "gender": "Male",
+    "salary": 40741,
+    "city": "Elbasan",
+    "phone": "199-151-8862",
+    "designation": "Python Developer"
+  },
+  {
+    "id": 6,
+    "name": "Erin Vaun",
+    "email": "evaun5@ning.com",
+    "image": "https://randomuser.me/api/portraits/women/50.jpg",
+    "gender": "Female",
+    "salary": 70237,
+    "city": "Kuroishi",
+    "phone": "395-844-3071",
+    "designation": "Programmer Analyst"
+  },
+  {
+    "id": 7,
+    "name": "Mariana Jerok",
+    "email": "mjerok6@goo.gl",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "gender": "Female",
+    "salary": 57881,
+    "city": "Tiaodeng",
+    "phone": "422-594-2651",
+    "designation": "Junior Software Developer"
+  },
+  {
+    "id": 8,
+    "name": "Roberto Wogdon",
+    "email": "rwogdon7@csmonitor.com",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "gender": "Male",
+    "salary": 49822,
+    "city": "Semang",
+    "phone": "443-171-2067",
+    "designation": "JavaScript Developer"
+  },
+  {
+    "id": 9,
+    "name": "Arnold Edgington",
+    "email": "aedgington8@usda.gov",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "gender": "Female",
+    "salary": 78694,
+    "city": "Cantagallo",
+    "phone": "397-770-2666",
+    "designation": "Pyton Developer"
+  },
+  {
+    "id": 10,
+    "name": "Arleyne Sanz",
+    "email": "asanz9@lycos.com",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "gender": "Male",
+    "salary": 29448,
+    "city": "San Vicente",
+    "phone": "989-734-8151",
+    "designation": "DJango Developer"
+  },
+  {
+    "id": 11,
+    "name": "Geneva De Winton",
+    "email": "gdea@miibeian.gov.cn",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "gender": "Female",
+    "salary": 35986,
+    "city": "Adiwerna",
+    "phone": "265-237-0043",
+    "designation": "Web Developer"
+  },
+  {
+    "id": 12,
+    "name": "Pauly Larkings",
+    "email": "plarkingsb@odnoklassniki.ru",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "gender": "Female",
+    "salary": 32894,
+    "city": "Duczki",
+    "phone": "487-942-9532",
+    "designation": "Senior Web Developer"
+  },
+  {
+    "id": 13,
+    "name": "Kalindi Macak",
+    "email": "kmacakc@arizona.edu",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "gender": "Male",
+    "salary": 20757,
+    "city": "Santa Ana",
+    "phone": "323-664-3681",
+    "designation": "Analyst Programmer"
+  },
+  {
+    "id": 14,
+    "name": "Nyssa Mary",
+    "email": "nmaryd@instagram.com",
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "gender": "Female",
+    "salary": 48607,
+    "city": "Ush-Tyube",
+    "phone": "476-505-6606",
+    "designation": "Senior Web Developer"
+  },
+  {
+    "id": 15,
+    "name": "Herby Lightollers",
+    "email": "hlightollerse@clickbank.net",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "gender": "Male",
+    "salary": 72122,
+    "city": "Lom Sak",
+    "phone": "465-212-3803",
+    "designation": "Engineer II"
+  },
+  {
+    "id": 16,
+    "name": "Teddie Domelow",
+    "email": "tdomelowf@utexas.edu",
+    "image": "https://randomuser.me/api/portraits/women/71.jpg",
+    "gender": "Female",
+    "salary": 51830,
+    "city": "Obo",
+    "phone": "997-256-2919",
+    "designation": "Junior Web Developer"
+  },
+  {
+    "id": 17,
+    "name": "Madge Fullicks",
+    "email": "mfullicksg@delicious.com",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+    "gender": "Male",
+    "salary": 62130,
+    "city": "Mahaplag",
+    "phone": "881-125-3082",
+    "designation": "Web Developer"
+  },
+  {
+    "id": 18,
+    "name": "Zuzana Brendel",
+    "email": "zbrendelh@cbc.ca",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "gender": "Male",
+    "salary": 76810,
+    "city": "El Pao",
+    "phone": "542-458-2789",
+    "designation": "Senior Web Developer"
+  },
+  {
+    "id": 19,
+    "name": "Dame Parkisson",
+    "email": "dparkissoni@answers.com",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "gender": "Male",
+    "salary": 57650,
+    "city": "Pa Kham",
+    "phone": "960-769-2492",
+    "designation": "Android Developer"
+  },
+  {
+    "id": 20,
+    "name": "Kerwinn Addyman",
+    "email": "kaddymanj@cyberchimps.com",
+    "image": "https://randomuser.me/api/portraits/women/8.jpg",
+    "gender": "Female",
+    "salary": 76856,
+    "city": "Dulian",
+    "phone": "971-850-8638",
+    "designation": "Android Developer"
+  }
+]
