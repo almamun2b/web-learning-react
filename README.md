@@ -8,7 +8,7 @@ Here we teaches web development course online. if you want to be a web developer
 
 ### Technology Used
 
-We used FontAwasome, BootStrap, CSS3, HTML5, React, Custom API...etc.
+We used BootStrap, CSS3, HTML5, React, Custom API...etc.
 
 ### Functionality
 
