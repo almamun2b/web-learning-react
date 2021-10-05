@@ -2,7 +2,6 @@ import React from 'react';
 
 const Instructor = (props) => {
     const { image, name, email, gender, phone, designation } = props.instructor;
-    // console.log(props);
     return (
         <div className="col">
             <div className="card rounded-3 p-3 shadow-lg h-100">

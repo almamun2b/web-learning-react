@@ -1,5 +1,13 @@
-.intro{
-    /* background-image: url("https://github.com/mycodinglab/images/blob/main/image.png?raw=true"); */
-    background-color: rgba(0, 0, 255, 0.1);
-    height: 500px;
+.intro {
+  /* background-image: url("https://github.com/mycodinglab/images/blob/main/image-2.png?raw=true"); */
+  background-image: url("https://github.com/mycodinglab/images/blob/main/image-3.jpg?raw=true");
+  height: 550px;
+  background-size: cover;
+  background-position: center;
+}
+
+.intro-info {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 10px;
 }

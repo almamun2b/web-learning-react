@@ -1,6 +1,6 @@
 # Title: Learn Complete Web Development with Us
 
-To See Our Shortlisted Developers Click [Here, Live Site Link](https://my-education-react.netlify.app/).
+Our Website Link: Click [Here, Live Site Link](https://my-education-react.netlify.app/).
 
 ## About The Site
 

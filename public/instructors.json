@@ -8,7 +8,7 @@
     "salary": 53149,
     "city": "Kivertsi",
     "phone": "845-582-1650",
-    "designation": "Owner"
+    "designation": "Owner Of the Company"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "salary": 45333,
     "city": "Fayzabad",
     "phone": "888-427-0116",
-    "designation": "MERN Stack Developer"
+    "designation": "MERN Stack Instructor"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "salary": 21834,
     "city": "Manadhoo",
     "phone": "300-404-0042",
-    "designation": "NodeJS Developer"
+    "designation": "NodeJS Instructor"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "salary": 47028,
     "city": "Chikeng",
     "phone": "421-792-8483",
-    "designation": "Database developer"
+    "designation": "Database Development Instructor"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "salary": 40741,
     "city": "Elbasan",
     "phone": "199-151-8862",
-    "designation": "Python Developer"
+    "designation": "Python Instructor"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "salary": 70237,
     "city": "Kuroishi",
     "phone": "395-844-3071",
-    "designation": "Programmer Analyst"
+    "designation": "BootStrap Instructor"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "salary": 57881,
     "city": "Tiaodeng",
     "phone": "422-594-2651",
-    "designation": "Junior Software Developer"
+    "designation": "HTML Instructor"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "salary": 49822,
     "city": "Semang",
     "phone": "443-171-2067",
-    "designation": "JavaScript Developer"
+    "designation": "JavaScript Instructor"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "salary": 78694,
     "city": "Cantagallo",
     "phone": "397-770-2666",
-    "designation": "Pyton Developer"
+    "designation": "CSS3 Instructor"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "salary": 29448,
     "city": "San Vicente",
     "phone": "989-734-8151",
-    "designation": "DJango Developer"
+    "designation": "DJango Instructor"
   },
   {
     "id": 11,
@@ -118,54 +118,11 @@
     "salary": 35986,
     "city": "Adiwerna",
     "phone": "265-237-0043",
-    "designation": "Web Developer"
+    "designation": "BackEnd Web Development Instructor"
   },
+
   {
     "id": 12,
-    "name": "Pauly Larkings",
-    "email": "plarkingsb@odnoklassniki.ru",
-    "image": "https://randomuser.me/api/portraits/women/5.jpg",
-    "gender": "Female",
-    "salary": 32894,
-    "city": "Duczki",
-    "phone": "487-942-9532",
-    "designation": "Senior Web Developer"
-  },
-  {
-    "id": 13,
-    "name": "Kalindi Macak",
-    "email": "kmacakc@arizona.edu",
-    "image": "https://randomuser.me/api/portraits/men/8.jpg",
-    "gender": "Male",
-    "salary": 20757,
-    "city": "Santa Ana",
-    "phone": "323-664-3681",
-    "designation": "Analyst Programmer"
-  },
-  {
-    "id": 14,
-    "name": "Nyssa Mary",
-    "email": "nmaryd@instagram.com",
-    "image": "https://randomuser.me/api/portraits/women/60.jpg",
-    "gender": "Female",
-    "salary": 48607,
-    "city": "Ush-Tyube",
-    "phone": "476-505-6606",
-    "designation": "Senior Web Developer"
-  },
-  {
-    "id": 15,
-    "name": "Herby Lightollers",
-    "email": "hlightollerse@clickbank.net",
-    "image": "https://randomuser.me/api/portraits/men/9.jpg",
-    "gender": "Male",
-    "salary": 72122,
-    "city": "Lom Sak",
-    "phone": "465-212-3803",
-    "designation": "Engineer II"
-  },
-  {
-    "id": 16,
     "name": "Teddie Domelow",
     "email": "tdomelowf@utexas.edu",
     "image": "https://randomuser.me/api/portraits/women/71.jpg",
@@ -173,10 +130,10 @@
     "salary": 51830,
     "city": "Obo",
     "phone": "997-256-2919",
-    "designation": "Junior Web Developer"
+    "designation": "Full Stack Web Development Instructor"
   },
   {
-    "id": 17,
+    "id": 13,
     "name": "Madge Fullicks",
     "email": "mfullicksg@delicious.com",
     "image": "https://randomuser.me/api/portraits/men/10.jpg",
@@ -184,10 +141,10 @@
     "salary": 62130,
     "city": "Mahaplag",
     "phone": "881-125-3082",
-    "designation": "Web Developer"
+    "designation": "Web Development Instructor"
   },
   {
-    "id": 18,
+    "id": 14,
     "name": "Zuzana Brendel",
     "email": "zbrendelh@cbc.ca",
     "image": "https://randomuser.me/api/portraits/men/11.jpg",
@@ -195,28 +152,17 @@
     "salary": 76810,
     "city": "El Pao",
     "phone": "542-458-2789",
-    "designation": "Senior Web Developer"
+    "designation": "Front End Development Instructor"
   },
-  {
-    "id": 19,
-    "name": "Dame Parkisson",
-    "email": "dparkissoni@answers.com",
-    "image": "https://randomuser.me/api/portraits/men/12.jpg",
-    "gender": "Male",
-    "salary": 57650,
-    "city": "Pa Kham",
-    "phone": "960-769-2492",
-    "designation": "Android Developer"
-  },
-  {
-    "id": 20,
-    "name": "Kerwinn Addyman",
-    "email": "kaddymanj@cyberchimps.com",
-    "image": "https://randomuser.me/api/portraits/women/8.jpg",
-    "gender": "Female",
-    "salary": 76856,
-    "city": "Dulian",
-    "phone": "971-850-8638",
-    "designation": "Android Developer"
-  }
+    {
+      "id": 15,
+      "name": "Clive Moorman",
+      "email": "cmoorman1d@google.com.hk",
+      "image": "https://randomuser.me/api/portraits/men/24.jpg",
+      "gender": "Male",
+      "salary": 36044,
+      "city": "Klagenfurt am Wörthersee",
+      "phone": "603-102-6203",
+      "designation": "React Instructor"
+    }
 ]

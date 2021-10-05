@@ -12,7 +12,7 @@ const Instructors = () => {
     
     return (
         <div>
-            <div className='row row-cols-1 row-cols-md-3 g-4 p-3'>
+            <div className='row row-cols-1 row-cols-md-3 g-4 p-3 mx-auto'>
                 {
                     instructors.map(instructor => <Instructor
                         key={instructor.id}

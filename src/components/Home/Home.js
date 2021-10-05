@@ -1,16 +1,22 @@
 import Courses from '../Courses/Courses';
 import Intro from '../Intro/Intro';
 import useCourses from '../../hooks/useCourses';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     const [courses] = useCourses();
-    console.log(courses);
+    const sliceCoursed = courses.slice(0, 4);
     return (
         <div>
             <Intro></Intro>
-            <div className='row row-cols-1 row-cols-md-3 g-4 p-3 container mx-auto'>
+            <h4 className='my-4'>
+                Browse All Courses: <Link to='/allcourses'>
+                    <button className='btn btn-primary me-5'>Browse Courses</button>
+                </Link>
+            </h4>
+            <div className='row row-cols-1 row-cols-md-4 g-4 p-3 container mx-auto'>
                 {
-                    courses.map(course => <Courses
+                    sliceCoursed.map(course => <Courses
                         key={course.id}
                         course={course}
                     ></Courses>)
