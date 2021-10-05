@@ -4,11 +4,11 @@ Our Website Link: Click [Here, Live Site Link](https://my-education-react.netlif
 
 ## About The Site
 
-Here we teaches web development course online. if you want to be a web developer, enroll now.
+This is the platform of learning Web Development that build you a Full Stack Web Developer. We try to teach you everything to the easy and effective way. If you work hard, you could be a web developer.So, if you want to be a web developer, enroll now.
 
 ### Technology Used
 
-We used BootStrap, CSS3, HTML5, React, Custom API...etc.
+We used BootStrap, CSS3, HTML5, React, Custom API...etc to Develop this Site.
 
 ### Functionality
 
@@ -16,5 +16,5 @@ All the Running Courses details are displayed by the grid Card. It also shows th
 
 ### Offer
 
-To get offer enroll now
+Those who enroll early, coluld be get extra offer.
 

@@ -11,10 +11,10 @@ const Home = () => {
             <Intro></Intro>
             <h4 className='my-4'>
                 Browse All Courses: <Link to='/allcourses'>
-                    <button className='btn btn-primary me-5'>Browse Courses</button>
+                    <button className='btn btn-primary'>Browse Courses</button>
                 </Link>
             </h4>
-            <div className='row row-cols-1 row-cols-md-4 g-4 p-3 container mx-auto'>
+            <div className='row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-4 p-3 container mx-auto'>
                 {
                     sliceCoursed.map(course => <Courses
                         key={course.id}
